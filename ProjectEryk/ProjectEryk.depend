@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1516200137 source:c:\users\eryk\desktop\æwiczenia c++\projecteryk\gracz.cpp
+	<iostream>
+	"Gracz.h"
+
+1516054033 source:c:\users\eryk\desktop\æwiczenia c++\projecteryk\file.cpp
+	<iostream>
+	<fstream>
+	"File.h"
+	"Test.h"
+	<string>
+
+1516054033 c:\users\eryk\desktop\æwiczenia c++\projecteryk\file.h
+	<iostream>
+	<iomanip>
+	"Test.h"
+
+1516199194 c:\users\eryk\desktop\æwiczenia c++\projecteryk\test.h
+	<iostream>
+
+1516198723 c:\users\eryk\desktop\æwiczenia c++\projecteryk\gracz.h
+	<iostream>
+	"Test.h"
+
+1516152614 source:c:\users\eryk\desktop\æwiczenia c++\projecteryk\main.cpp
+	<iostream>
+	"Error.h"
+	"Test.h"
+	"Gracz.h"
+	"TestBazowy.h"
+	"TestNowy.h"
+	<cstdlib>
+
+1516183972 c:\users\eryk\desktop\æwiczenia c++\projecteryk\testbazowy.h
+	<iostream>
+	"Test.h"
+
+1516183819 c:\users\eryk\desktop\æwiczenia c++\projecteryk\testnowy.h
+	<iostream>
+	"Test.h"
+
+1516183682 source:c:\users\eryk\desktop\æwiczenia c++\projecteryk\test.cpp
+	"TestBazowy.h"
+	"TestNowy.h"
+	"Gracz.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+
+1516183910 source:c:\users\eryk\desktop\æwiczenia c++\projecteryk\testbazowy.cpp
+	<iostream>
+	"TestBazowy.h"
+	<fstream>
+	<string>
+	"Gracz.h"
+	"Test.h"
+	<cstdlib>
+
+1516183702 source:c:\users\eryk\desktop\æwiczenia c++\projecteryk\testnowy.cpp
+	<iostream>
+	"TestNowy.h"
+	"Gracz.h"
+	"Test.h"
+	<fstream>
+	<string>
+	<cstdlib>
+
+1516142513 source:c:\users\eryk\desktop\æwiczenia c++\projecteryk\error.cpp
+	"Error.h"
+
+1516142349 c:\users\eryk\desktop\æwiczenia c++\projecteryk\error.h
+	<iostream>
+	<string>
+	<exception>
+
