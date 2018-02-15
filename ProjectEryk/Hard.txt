@@ -1,8 +1,4 @@
 
-1. 60;
-2. 120;
-3. 3600;
-4. 40;
 1;
 Jaki kwiat ma w nazwie "sto"?;
 1. fiolek;
